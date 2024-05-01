@@ -1,0 +1,9 @@
+streamlit
+langchain
+langserve
+fastapi
+uvicorn
+TTS
+ipykernel
+openai-whisper
+setuptools-rust
