@@ -44,10 +44,10 @@ To set up and run the Digital Human project, follow these steps:
    cd digital_human
    ```
 2. Install the required dependencies:
-  ```
-  pip install -r requirements.txt
-  ```
+   ```
+   pip install -r requirements.txt
+   ```
 3. Start the project:
-  ```
-  python main.py
-  ```
+   ```
+   python main.py
+   ```
