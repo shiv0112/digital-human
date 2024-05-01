@@ -1,4 +1,3 @@
-# digital-human
 # Digital Human - Creating an AI-Driven Virtual Entity
 
 Welcome to **Digital Human**! This repository is dedicated to building a sophisticated virtual entity that can interact with the real world. We are combining state-of-the-art Large Language Models (LLMs) with Computer-Generated Imagery (CGI) and other cutting-edge techniques to create a digital human that can simulate real-world interactions.
