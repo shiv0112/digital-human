@@ -3,7 +3,12 @@ langchain
 langserve
 fastapi
 uvicorn
-TTS
 ipykernel
-openai-whisper
-setuptools-rust
+python-dotenv
+edge-tts
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
