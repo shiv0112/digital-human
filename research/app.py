@@ -21,7 +21,7 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 client = Groq(
-    api_key='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',
+    api_key="<Your API KEY>",
 )
 
 # ollama LLAma2 LLm 
